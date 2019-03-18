@@ -1,6 +1,7 @@
 
 public class Swaping {
 public static void main(String args[]) {
+	//swapping
 	int a=10,b=20;
 	System.out.println("Before swaping  a="+a +" b="+b);
 	 a=a+b;
