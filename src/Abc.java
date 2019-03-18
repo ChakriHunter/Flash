@@ -1,3 +1,6 @@
+import java.util.HashSet;
+import java.util.Set;
+
 //import java.util.HashSet;
 //import java.util.Set;
 
@@ -16,13 +19,13 @@ public class Abc {
 
 	
 	
-	/*Set s=new HashSet();
+	Set s=new HashSet();
 	for(int q:a) {
 		if(s.add(q)==false) {
 			System.out.println("duplicats="+q);
 		}
 		
 	}
-	System.out.println("unique="+s);*/
+	System.out.println("unique="+s);
 	}
 }
